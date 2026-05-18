@@ -20,3 +20,8 @@ A professional clinical reasoning copilot that transforms raw patient data into 
 ### 2. Frontend Access (Mobile Client)
 1. Open the copied URL in any standard browser (Safari, Chrome, etc.) on your **smartphone**.
 2. **Zero-install required:** Paste or dictate your patient logs directly into the text box and select your desired output mode to get real-time clinical reasoning support!
+
+ ##  Development & Verification
+*   The fully executed notebook—including runtime logs, 4-bit quantization metrics, and complete clinical text outputs—is fully preserved and viewable in the repository.
+
+*(Note: The Gradio public URL is generated dynamically upon each notebook execution. The URL shown in the demonstration video reflects a specific live session, while the repository logs reflect the final verification run.)*
